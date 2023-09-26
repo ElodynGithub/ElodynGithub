@@ -5,6 +5,3 @@
 - I’m learning three programming languages: JavaScript, HTML & CSS.
 #### Contact me:
 ###### fredriksson.caroline@outlook.com
-
-https://github.com/ElodynGithub/Elodyngithub.git
-
